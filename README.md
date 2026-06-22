@@ -25,9 +25,13 @@ O projeto foca em uma interface responsiva, desacoplada e rica em utilitários d
 
 ## 🚀 Como Executar o App Localmente
 
-Por ser um cliente focado na experiência local, ele pode ser inicializado de forma independente para consumir seu servidor de proxy:
+Por ser uma aplicação focada na experiência local, ela pode ser instalada diretamente no seu computador para uso imediato. Baixe a versão correspondente ao seu sistema operacional através dos links oficiais abaixo:
 
+Windows: 📥 Baixar executável para Windows (x64)
 
+Linux: 📥 Baixar binário para Linux (x64)
+
+Após o download, basta executar o arquivo para iniciar o aplicativo.
 
 ---
 <p align="center">Developed by <b>Ldov - AI & IT Solutions</b> </p>
