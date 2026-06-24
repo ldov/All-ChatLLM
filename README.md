@@ -1,4 +1,4 @@
-# 💬 All-ChatLLM
+# 💬 AI-ChatLLM
 
 > **Um playground de conversação focado em produtividade, que consome seus endpoints locais para oferecer uma interface de chat intuitiva, com histórico persistente, ferramentas de exportação de documentos e suporte a múltiplos modelos de IA em uma única tela.**
 
@@ -6,7 +6,7 @@
 
 ## 📝 Descrição do Projeto
 
-O **All-Chat-LLM** é uma interface gráfica de Playground inspirada na experiência de chat da OpenAI, feita exclusivamente para atuar como cliente. Ele interage diretamente com o seu roteador local ou qualquer API compatível, oferecendo uma experiência de uso fluida e multilíngue (Português e Inglês).
+O **AI-ChatLLM** é uma interface gráfica de Playground inspirada na experiência de chat da OpenAI, feita exclusivamente para atuar como cliente. Ele interage diretamente com o seu roteador local ou qualquer API compatível, oferecendo uma experiência de uso fluida e multilíngue (Português e Inglês).
 
 O aplicativo conta com uma barra lateral retrátil para gerenciamento completo e persistente de sessões anteriores. Na área de interação central, o usuário pode selecionar o provedor e o modelo desejado através de droplists dinâmicos, enviar prompts textuais, anexar documentos de referência e contar com ferramentas instantâneas para copiar as respostas da IA ou exportá-las com formatação rica para arquivos `.md`, `.pdf` e `.txt`.
 
